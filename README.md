@@ -5,3 +5,4 @@ sgngsaklgjkakj
 This is line 4
 Add thrid meanifingul line instead
 
+Avoid manual merging testing for that
